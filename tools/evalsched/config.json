@@ -1,0 +1,7 @@
+{
+	"nodes": {
+		"number": 3,
+		"capacity": 100,
+		"update_period_seconds": 3
+	}
+}
